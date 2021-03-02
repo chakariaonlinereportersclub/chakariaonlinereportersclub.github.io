@@ -1,6 +1,6 @@
 +++
 author = "Chakaria Online Reporters Club"
-title = "Our Purpose"
+title = "Resources"
 date = "2019-03-10"
 description = "Help each other to grow in the industry and present highet level of professionalism"
 tags = [
@@ -16,13 +16,13 @@ Chakraria online reporters club, we are a group of online media professionals go
 <!--more-->
 ---
 
-## Instagram Simple Shortcode
+## Our Live News Presentation
 
 <br>
 
 ---
 
-## YouTube Privacy Enhanced Shortcode
+## Live Reporting... comming soon!
 
 {{< youtube ZJthWmvUzzc >}}
 
@@ -30,14 +30,19 @@ Chakraria online reporters club, we are a group of online media professionals go
 
 ---
 
-## Twitter Simple Shortcode
 
-{{< twitter_simple 1085870671291310081 >}}
+## Live Reporting... comming soon!
+
+{{< youtube ZJthWmvUzzc >}}
 
 <br>
 
 ---
 
-## Vimeo Simple Shortcode
 
-{{< vimeo_simple 48912912 >}}
+## Live Reporting... comming soon!
+
+{{< youtube ZJthWmvUzzc >}}
+
+<br>
+

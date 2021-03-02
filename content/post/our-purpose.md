@@ -4,10 +4,11 @@ title = "Our Purpose"
 date = "2019-03-10"
 description = "Help each other to grow in the industry and present highet level of professionalism"
 tags = [
-    "shortcodes",
-    "privacy",
+    "unity",
+    "development",
+    "milestone",
 ]
-thumbnail = "images/dollar.png"
+thumbnail = "images/purpose.png"
 
 +++
 
@@ -16,7 +17,9 @@ Chakraria online reporters club, we are a group of online media professionals go
 <!--more-->
 ---
 
-## Instagram Simple Shortcode
+## YouTube Privacy Enhanced Shortcode
+
+{{< youtube ZJthWmvUzzc >}}
 
 <br>
 
@@ -28,16 +31,8 @@ Chakraria online reporters club, we are a group of online media professionals go
 
 <br>
 
----
+## YouTube Privacy Enhanced Shortcode
 
-## Twitter Simple Shortcode
-
-{{< twitter_simple 1085870671291310081 >}}
+{{< youtube ZJthWmvUzzc >}}
 
 <br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}

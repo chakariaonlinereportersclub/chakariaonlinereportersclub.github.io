@@ -11,16 +11,16 @@
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Work"
-  identifier = "work"
+  identifier = ""
   weight = -108
 [[main]]
   parent = "Follow"
   name = "LinkedIn"
-  url = "https://www.linkedin.com/"
+  url = "https://www.linkedin.com/in/mediajockey"
 [[main]]
-  parent = "Links"
+  parent = "Follow"
   name = "Twitter"
-  url = "https://twitter.com/"
+  url = "https://twitter.com/mediajockey"
 
 [[main]]
   name = "About"
@@ -33,15 +33,15 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
+  url = "https://github.com/chakariaonlinereportersclub"
 [[social]]
   name = "twitter"
   weight = 2
-  url = "https://twitter.com/#"
+  url = "https://twitter.com/mediajockey"
 [[social]]
   name = "linkedin"
   weight = 3
-  url = "https://www.linkedin.com/in/#"
+  url = "https://www.linkedin.com/in/mediajockey"
 [[social]]
   name = "rss"
   weight = 4

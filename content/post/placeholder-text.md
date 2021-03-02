@@ -1,20 +1,14 @@
 +++
 author = "Chakaria Online Reporters Club"
-title = "Resources"
+title = "Support"
 date = "2019-03-09"
 description = "This initiative is to help online media professionals with all the advanced technologial resources available"
 tags = [
     "technology",
     "professional",
+    "plarform",
 ]
 +++
-
-Our Purpose
-
-1. Make available advance technological resources
-2. Support each other to imporve skill
-3. Online media presentation platform
-4. Training and skill development resources
 
 This initiative is taken by Ismail Tuhin, whos aim was to have a platform where all the online media professional will have a ground for them to stand up and be storng together
 
@@ -23,6 +17,14 @@ This initiative is taken by Ismail Tuhin, whos aim was to have a platform where 
 3. A common platfrom to express individual views
 4. Be united to represent the community
 5. Create examples for other to help the industry grow.
+
+Our Purpose
+
+1. Make available advance technological resources
+2. Support each other to imporve skill
+3. Online media presentation platform
+4. Training and skill development resources
+
 
 # Vagus elidunt
 
