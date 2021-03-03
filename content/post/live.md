@@ -11,15 +11,9 @@ thumbnail = "images/dollar.png"
 
 +++
 
-Welcome to our live reporting channel
+Welcome to our live reporting channel, here we will be boradcasting live reporting reported by our club members from various locations.
 
 <!--more-->
----
-
-## Our Live News Presentation
-
-<br>
-
 ---
 
 ## Live Reporting Youtube
@@ -40,7 +34,7 @@ Welcome to our live reporting channel
 ---
 
 
-## Regular Stream
+## Live Reporting Facebook
 
 {{< youtube 4WzNVqteQ3g >}}
 
