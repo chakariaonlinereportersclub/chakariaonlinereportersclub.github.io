@@ -41,7 +41,7 @@ thumbnail = "images/forest.jpg"
 
 ## Reported By
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+
 
    Name | Date
 --------|------
